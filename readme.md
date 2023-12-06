@@ -10,7 +10,7 @@
 Welcome to the ZetaChain example contracts repository! This collection of smart
 contract projects is written using Hardhat and Solidity, specifically for the
 ZetaChain blockchain. Each project showcases different functionalities and use
-cases that can be implemented on the ZetaChain platform.
+cases that can be implemented on the ZetaChain platform. The best repo in the world!
 
 ### Omnichain Contracts
 
